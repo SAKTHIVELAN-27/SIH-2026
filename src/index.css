@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy-base: #0B1120;
+  --color-navy-card: #1E293B;
+  --color-neon-green: #10B981;
+  --color-neon-cyan: #06B6D4;
+}
+
+body {
+  background-color: #0B1120; /* Hardcoded fallback just in case */
+  color: white;
+}
